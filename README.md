@@ -1,5 +1,5 @@
 # BEDU_Postworks
 
-Repositorio para los postworks BEDU.
+Repositorio para los postworks BEDU del equipo 19.
 
-# Postwork 1
+
