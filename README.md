@@ -11,3 +11,4 @@ Repositorio para los postworks BEDU del equipo 19.
 # Postworks
 
 - [Postwork 1](https://github.com/pablovzes/BEDU_Postworks/blob/main/Equipo19_Postwork1.R)
+- [Postwork 2](https://github.com/pablovzes/BEDU_Postworks/tree/main/PostworkS2)
