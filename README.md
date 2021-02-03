@@ -15,4 +15,4 @@ Repositorio para los postworks BEDU del equipo 19.
 - [Postwork 3](https://github.com/pablovzes/BEDU_Postworks/tree/main/Postwork_S3)
 - [Postwork 4](https://github.com/pablovzes/BEDU_Postworks/tree/main/Postwork_S4)
 - [Postwork 5](https://github.com/pablovzes/BEDU_Postworks/tree/main/Postwork_S5)
-- [Postwork 7](https://github.com/pablovzes/BEDU_Postworks/tree/main/Postwork_S6)
+- [Postwork 7](https://github.com/pablovzes/BEDU_Postworks/tree/main/Postwork_S7)
