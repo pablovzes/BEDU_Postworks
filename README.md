@@ -22,4 +22,4 @@ Repositorio para los postworks BEDU del equipo 19.
 
 # Proyecto
 
-- [Análisis Predictivo para una Empresa de Telecomunicaciones]()
+- [Análisis Predictivo para una Empresa de Telecomunicaciones](https://github.com/pablovzes/BEDU_Postworks/tree/main/ProyectoBEDU_Equipo19)
